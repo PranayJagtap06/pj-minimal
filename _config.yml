@@ -21,7 +21,7 @@ repository               : "PranayJagtap06/pranay-jagtap"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pj_colg_portrait/jpg"
+  avatar           : "Pj_colg_portrait.jpg"
   name             : "Pranay Jagtap"
   pronouns         : # example: "he/him"  
   bio              : "Electrical Engineer turned Python enthusiast and Machine Learning explorer."
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : __pranay.ml__ # Username
   lastfm           : # Username
-  linkedin         : linkedin.com/in/pranayj-ml-engineer # Username
+  linkedin         : https://linkedin.com/in/pranayj-ml-engineer # Username
   mastodon         : # URL
   medium           : https://medium.com/@pranayjagtap # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : https://youtube.com/@pranay_ml # Username
+  youtube          : https://youtube.com/@pranay_ml?si=K5jM1iBCTbo-QkL- # Username
   zhihu            : # URL
 
 
