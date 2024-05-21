@@ -12,7 +12,7 @@ title                    : "Pranay's Homepage"
 title_separator          : "-"
 name                     : &name "Pranay's Homepage"
 description              : &description "personal description"
-url                      : https://pranayjagtap06.github.io/pranay-jagtap # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pranayjagtap # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PranayJagtap06/pranay-jagtap"
 
