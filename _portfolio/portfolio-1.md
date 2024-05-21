@@ -8,7 +8,7 @@ collection: portfolio
 **Hand Sign Classification using Convolutional Neural Networks (CNNs) and TensorFlow**
 
 <p align="center">
-    [Visit Project](https://github.com/PranayJagtap06/ML_Projects/tree/main/Hand_Signs_Classification)
+  Check out my <a href="https://github.com/PranayJagtap06/ML_Projects/tree/main/Hand_Signs_Classification">Hand Sign Classification project</a> on GitHub!
 </p>
 
 <p style="text-align: justify;">
