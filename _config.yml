@@ -21,7 +21,7 @@ repository               : "PranayJagtap06/PranayJagtap06.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pj_colg_portrait.jpg"
+  avatar           : "pranay_sq.jpg"
   name             : "Pranay Jagtap"
   pronouns         : he/him # example: "he/him"  
   bio              : "Electrical Engineer turned Python enthusiast and Machine Learning explorer."
