@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "Pj_colg_portrait.jpg"
   name             : "Pranay Jagtap"
-  pronouns         : # example: "he/him"  
+  pronouns         : he/him # example: "he/him"  
   bio              : "Electrical Engineer turned Python enthusiast and Machine Learning explorer."
   location         : "Nagpur, Maharashtra, India"
-  employer         : "Nagpur University"
+  employer         : # employer
   uri              : # URL
   email            : "pranays.jagtap@gmail.com" 
 
