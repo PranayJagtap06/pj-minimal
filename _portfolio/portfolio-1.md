@@ -7,6 +7,10 @@ collection: portfolio
 
 **Hand Sign Classification using Convolutional Neural Networks (CNNs) and TensorFlow**
 
+<p align="center">
+    [Visit Project](https://github.com/PranayJagtap06/ML_Projects/tree/main/Hand_Signs_Classification)
+</p>
+
 <p style="text-align: justify;">
     This project entailed the development of a deep learning model capable of classifying hand signs from 0 to 5 using Convolutional Neural Networks (CNNs) and TensorFlow. The primary objective was to design a highly accurate and efficient system that can reliably distinguish between different hand signs.
 </p>
