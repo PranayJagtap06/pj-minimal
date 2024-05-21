@@ -1,7 +1,36 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hand Sign Classification"
+excerpt: "0-5 hand sings classification using CNN and TensorFlow<br/><img src='/images/prediction_5.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+**Hand Sign Classification using Convolutional Neural Networks (CNNs) and TensorFlow**
+
+<p style="text-align: justify;">
+    This project entailed the development of a deep learning model capable of classifying hand signs from 0 to 5 using Convolutional Neural Networks (CNNs) and TensorFlow. The primary objective was to design a highly accurate and efficient system that can reliably distinguish between different hand signs.
+</p>
+
+**Data Preprocessing**
+
+<p style="text-align: justify;">
+    To ensure optimal model performance, a data preprocessing phase (model was performing well without data agumentation, so data agumentation was not performed and only data scaling was performed) was undertaken to enhance the quality and consistency of the input image data. This crucial step involved applying various techniques to prepare the data for the CNN model.
+</p>
+
+**Model Architecture and Training**
+
+<p style="text-align: justify;">
+    A bespoke CNN architecture was designed and implemented using TensorFlow. A thorough hyperparameter tuning process was conducted to determine the optimal learning rate, which was identified as 0.002 using the Adam optimizer. Subsequently, the final model was built and trained using the optimized hyperparameters.
+</p>
+
+**Model Evaluation and Performance**
+
+<p style="text-align: justify;">
+    The trained model demonstrated exceptional performance on both the validation and test sets. On the validation set, the model achieved an accuracy of 85% and a categorical accuracy of 100%. Notably, the model performed even more impressively on the test set, with an accuracy of 88.33% and a categorical accuracy of 100%. These results unequivocally demonstrate the model's ability to accurately classify hand signs from 0 to 5.
+</p>
+
+**Conclusion**
+
+<p style="text-align: justify;">
+    This project showcases my proficiency in designing and implementing a deep learning model that can accurately classify hand signs using CNNs and TensorFlow. The results underscore the efficacy of the proposed approach and highlight the vast potential of machine learning in image classification tasks.
+</p>
