@@ -12,7 +12,7 @@ title                    : "Pranay's Homepage"
 title_separator          : "-"
 name                     : &name "Pranay Jagtap"
 description              : &description "Electrical Engineer turned Python enthusiast and Machine Learning explorer."
-url                      : https://pranayjagtap06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pranayjagtap06.github.io/pj-minimal # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PranayJagtap06/PranayJagtap06.github.io"
 # theme                    : jekyll-theme-slate
